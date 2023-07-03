@@ -1,5 +1,5 @@
 ## MNIST Neural Network from Scratch
-This repository contains a Python implementation of a neural network for MNIST digit classification. The neural network is implemented from scratch, without using any deep learning frameworks or libraries. (no Tensorflow/Pytorch, just numpy & math)
+This repository contains a Python implementation of a neural network for MNIST digit classification. The neural network is implemented from scratch, without using any deep learning frameworks or libraries. (no Tensorflow/Pytorch, just NumPy & Math)
 
 ## Dataset
 The MNIST dataset consists of a large set of handwritten digits from 0 to 9. It is a commonly used benchmark dataset for image classification tasks.
